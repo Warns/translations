@@ -65,13 +65,14 @@
 		"name_t":{
 			"da":"angrebsdrone",
 			"ru":"атакующий дрон",
-			"tr":"saldırgan dron",
+			"tr":"saldıran dron",
 			"zh":"无人攻击机"
 		},
 	},
 	"baryonyx":{
 		"name_t":{
 			"ru":"барионикс",
+			"tr":"bariyoniks",
 			"zh":"重爪龙"
 		},
 	},
@@ -90,18 +91,21 @@
 	"beelzebufo":{
 		"name_t":{
 			"ru":"жаба",
+			"tr":"boynuzlu kurbağa",
 			"zh":"魔鬼蛙"
 		},
 	},
 	"bulbdog":{
 		"name_t":{
 			"ru":"лампадог",
+			"tr":"ampul köpek",
 			"zh":"灯泡犬"
 		},
 	},
 	"brontosaurus":{
 		"name_t":{
 			"ru":"бронтозавр",
+			"tr":"brontozor",
 			"zh":"雷龙"
 		},
 	},
