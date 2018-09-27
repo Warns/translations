@@ -2,7 +2,9 @@
 	"achatina":{
 		"name_t":{
 			"ru":"ахатина",
+			"tr":"akatina",
 			"zh":"玛瑙螺"
+			
 		},
 	},
 	"allosaurus":{
@@ -15,6 +17,7 @@
 		"name_t":{
 			"da":"ammonit",
 			"ru":"аммонит",
+			"tr":"ammonit",
 			"zh":"菊石"
 		},
 	},
@@ -22,12 +25,14 @@
 		"name_t":{
 			"da":"klumpangler",
 			"ru":"удильщик",
+			"tr":"fenerbalığı",
 			"zh":"鮟鱇鱼"
 		},
 	},
 	"ankylosaurus":{
 		"name_t":{
 			"ru":"анкилозавр",
+			"tr":"ankilozor",
 			"zh":"甲龙"
 		},
 	},
@@ -40,6 +45,7 @@
 	"archaeopteryx":{
 		"name_t":{
 			"ru":"археоптерикс",
+			"tr":"arkeopteriks",
 			"zh":"始祖鸟"
 		},
 	},
@@ -59,6 +65,7 @@
 		"name_t":{
 			"da":"angrebsdrone",
 			"ru":"атакующий дрон",
+			"tr":"saldırgan dron",
 			"zh":"无人攻击机"
 		},
 	},
